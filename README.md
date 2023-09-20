@@ -44,4 +44,16 @@ If you are saving your progress on [freeCodeCamp.org](https://www.freecodecamp.o
 Submission
 ![Submission](submission.png)
 
+`galaxy` table
+![galaxy](galaxy.png)
+
+`star` table
+![star](star.png)
+
+`planet` table
+![planet](planet.png)
+
+`moon` table
+![moon](moon.png)
+
 
