@@ -45,7 +45,7 @@ Submission
 ![Submission](submission.png)
 
 `galaxy` table
-![galaxy](Galaxy (2).png)
+![galaxy](galaxy.png)
 
 `star` table
 ![star](star.png)
